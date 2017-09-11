@@ -1,0 +1,15 @@
+{
+  "name": "fastify-one-click-deploy",
+  "version": "0.0.1",
+  "description": "This package shows us how to deploy fastify in seconds.",
+  "main": "index.js",
+  "engines": {
+    "node": "7.x"
+  },
+  "repository": "git@github.com:cagataycali/fastify-one-click-deploy.git",
+  "author": "cagataycali <cagataycali@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^0.27.0"
+  }
+}
