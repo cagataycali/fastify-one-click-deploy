@@ -10,6 +10,6 @@
   "author": "cagataycali <cagataycali@icloud.com>",
   "license": "MIT",
   "dependencies": {
-    "fastify": "^0.27.0"
+    "fastify": "^2.0.0"
   }
 }
