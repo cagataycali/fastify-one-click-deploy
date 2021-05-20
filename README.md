@@ -24,6 +24,8 @@
 
 **One Click Deploy**
 
+[![Deploy to Zeet](https://deploy.zeet.co/fastify.svg)](https://deploy.zeet.co/?url=https://github.com/cagataycali/fastify-one-click-deploy)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cagataycali/fastify-one-click-deploy)
 
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/cagataycali/ffastify-one-click-deploy)
