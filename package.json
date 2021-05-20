@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "This package shows us how to deploy fastify in seconds.",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "engines": {
     "node": "7.x"
   },
